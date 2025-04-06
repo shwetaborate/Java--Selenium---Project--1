@@ -24,12 +24,7 @@ Firefox (GeckoDriver)
 
 📦 Project Structure
 
-BookingFlightAutomation/
-├── src/
-│   └── BookingFlightAutomation.java
-├── geckodriver.exe
-├── FlightDetails.xlsx (auto-generated)
-└── README.md
+<pre lang="markdown"> ```bash BookingFlightAutomation/ ├── src/ │ └── BookingFlightAutomation.java ├── geckodriver.exe ├── FlightDetails.xlsx (auto-generated) └── README.md ``` </pre>
 
 📄 Output
 An Excel file named FlightDetails.xlsx will be created with the following columns:
