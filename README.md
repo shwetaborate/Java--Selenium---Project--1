@@ -23,8 +23,14 @@ Apache POI (for Excel)
 Firefox (GeckoDriver)
 
 📦 Project Structure
-
-<pre lang="markdown"> ```bash BookingFlightAutomation/ ├── src/ │ └── BookingFlightAutomation.java ├── geckodriver.exe ├── FlightDetails.xlsx (auto-generated) └── README.md ``` </pre>
+```
+BookingFlightAutomation/
+├── src/
+│   └── BookingFlightAutomation.java
+├── geckodriver.exe
+├── FlightDetails.xlsx (auto-generated)
+└── README.md
+```
 
 📄 Output
 An Excel file named FlightDetails.xlsx will be created with the following columns:
