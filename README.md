@@ -22,16 +22,6 @@ Apache POI (for Excel)
 
 Firefox (GeckoDriver)
 
-📦 Project Structure
-```
-BookingFlightAutomation/
-├── src/
-│   └── BookingFlightAutomation.java
-├── geckodriver.exe
-├── FlightDetails.xlsx (auto-generated)
-└── README.md
-```
-
 📄 Output
 An Excel file named FlightDetails.xlsx will be created with the following columns:
 
